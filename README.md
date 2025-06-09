@@ -1,8 +1,8 @@
 # win95password
 References to Stephen King's Lawnmower Man
 ### Style Instructions ###
-1.Before: ![Alt text](start.png)
-1.After: ![Alt text](complete.png)
+1.Before: ![Start](start.png)
+1.After: ![End](end.png)
 ### Script Instructions ###
 1. On page load, execute a setup script to perform the following: 
 1. Create two buttons inside the div with buttons id, labeled OK and Cancel (like the image "complete.png"). 
